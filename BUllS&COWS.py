@@ -1,5 +1,5 @@
 """
-projekt_1.py: první projekt do Engeto Online Python Akademie
+pprojekt_2.py: druhý projekt do Engeto Online Python Akademie
 
 author: Anastasija Kozlovska
 email: kozlovska.st@gmail.com
