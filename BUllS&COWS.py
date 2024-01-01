@@ -1,3 +1,11 @@
+"""
+projekt_1.py: první projekt do Engeto Online Python Akademie
+
+author: Anastasija Kozlovska
+email: kozlovska.st@gmail.com
+discord: anastasia0163
+
+"""
 import random
 
 mystery_number = "_ _ _ _"
